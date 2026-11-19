@@ -1,23 +1,58 @@
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 0;">
+#### A little repository for break times. Simple Python codes, but with results that captivate me. Visuals have such a strong effect on my brain, so... if you're neurodivergent too, you might get it :)))
+<br>
+<br>
+<div align="center">
 
-  <div style="margin-right: 86.6px; display: flex; flex-direction: column; align-items: center;">
-    <h3> </h3>
-    <img src="./tiny circ/tiny_circ.gif" width="260" />
-  </div>
+Awesome for zoning out. Kind of ໑ hypnotic ໑ → `Bloom` directory
 
-  <div style="margin-right: 133.3px; display: flex; flex-direction: column; align-items: center;">
-    <h3> </h3>
-    <img src="./thatGreenCalmingthing/aboutMyEtchASketch.png" width="400" />
-  </div>
+<img src="./Bloom/UwU.gif" width="260" />
 
-  <div style="margin-right: 90px; display: flex; flex-direction: column; align-items: center;">
-    <h3> </h3>
-    <img src="./thatGreenCalmingthing/Screenshot 2026-03-09 220308.png" width="270" />
-  </div>
+<br>
 
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <h3> </h3>
-    <img src="./MyMagic8Ball/Screenshot 2026-03-08 140739.png" width="280" />
-  </div>
+✦
+<br>
+✧
+
+<br>
+
+Bibbidi-bobbidi-boo ✨ `tiny circ` dir
+
+<img src="./tiny circ/tiny_circ.gif" width="260" />
+
+<br>
+
+✦
+<br>
+✧
+
+<br>
+
+Random — I just love the colorssss 💜
+
+<img src="./thatGreenCalmingthing/aboutMyEtchASketch.png" width="400" />
+
+<br>
+
+✦
+<br>
+✧
+
+<br>
+
+You can hide little letters and words behind your design. I highly recommend giving this one a try! Check out the `thatGreenCalmingthing` directory.
+
+<img src="./thatGreenCalmingthing/Screenshot 2026-03-09 220308.png" width="270" />
+
+<br>
+
+✦
+<br>
+✧
+
+<br>
+
+???
+
+<img src="./MyMagic8Ball/Screenshot 2026-03-08 140739.png" width="280" />
 
 </div>
