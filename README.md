@@ -15,16 +15,16 @@ mindless clicking, different sound notes, and drifting particles make it perfect
 <br>
 <br>
 
+**Bibbidi-bobbidi-boo** ✨ `tiny circ` directory
+
+<img src="./tiny circ/tiny_circ.gif.gif" width="260" />
+
+<br>
+<br>
+
 ໑ hypnotic ໑  `Bloom` directory
 
 <img src="./Bloom/UwU.gif" width="260" />
-
-<br>
-<br>
-
-**Bibbidi-bobbidi-boo** ✨ `tiny circ` directory
-
-<img src="./tiny circ/tiny_circ.gif" width="260" />
 
 <br>
 <br>
