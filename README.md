@@ -1,5 +1,5 @@
 
-### code therapy for when I'm lost/heartbroken/stressed...
+### code therapy for when I'm lost/heartbroken/stressed or MANIC !
 <br>
 &nbsp;
 <br>
